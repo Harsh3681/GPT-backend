@@ -1,0 +1,7 @@
+Flask
+flask_pymongo
+os
+gunicorn
+openai
+gradio
+flask_cors

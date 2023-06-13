@@ -1,0 +1,15 @@
+{
+  "name": "ChatGPT Clone",
+  "version": "0.0.0",
+  "description": "ChatGPT Clone",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7",
+    "vite": "^2.7.7"
+  }
+}
